@@ -12,6 +12,10 @@ import RuntimeIssues
 runtimeIssue("Couldn't load data from url '%s' as image.", url)
 ```
 
+![Generic example image 1](docs/generic-example-inline.png)
+
+![Generic example image 2](docs/generic-example-navigator.png)
+
 Create your own logger for logging categorized failures:
 
 ```swift
@@ -32,6 +36,11 @@ extension UIFont {
       }
   }
 ```
+
+![Specialized example image 1](docs/specialized-example-inline.png)
+
+![Specialized example image 2](docs/specialized-example-navigator.png)
+
 
 ## Behind the scenes
 
