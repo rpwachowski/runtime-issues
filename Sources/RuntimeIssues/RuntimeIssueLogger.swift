@@ -1,6 +1,8 @@
 import Foundation
 import os.log
+#if DEBUG
 import _SwiftOSOverlayShims
+#endif
 
 public struct RuntimeIssueLogger {
 
