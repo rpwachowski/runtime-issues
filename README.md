@@ -51,7 +51,7 @@ The idea for this library came from SwiftUI's own runtime issue logging; for exa
 
 ### Caveats
 
-The implementation is full of black-magic wizardry and is intended to be used for debugging alone. This is not a replacement for logging and may break at any given time. You should use this in addition the first-party logging APIs provided by Apple.
+The implementation is full of chaotic wizardry and is intended to be used for debugging alone. This is not a replacement for logging and may break at any given time. You should use this in addition the first-party logging APIs provided by Apple.
 
 Logging was recently updated to provide for a modern, Swift-friendly interface. You can check out the WWDC presentation [here](https://developer.apple.com/videos/play/wwdc2020/10168/).
 
