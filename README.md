@@ -79,7 +79,7 @@ Tested with the following, but might work with earlier:
 
 ### Swift Package Manager
 
-From Xcode, you can find the interface for 
+From an Xcode project, you can find the interface for adding a Swift package under the Xcode project's "Swift Packages" tab. Once there, add a new a dependency, enter the URL of this reposistory, and follow the dialogs to add it to your project.
 
 Add the following dependency to your `Package.swift` file:
 
