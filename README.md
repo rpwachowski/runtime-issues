@@ -112,3 +112,7 @@ let package = Package(
 ### Cocoapods
 
 ###### Not yet implemented
+
+## Contributions
+
+If you run into any problems using this library or spot a way to make it better, don't hesitate to open an issue. I hacked this together rather quickly so I'm sure there are a ton of ways it can be improved.
